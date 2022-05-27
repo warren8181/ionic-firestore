@@ -1,0 +1,7 @@
+{
+  "name": "Firebase_CRUD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
